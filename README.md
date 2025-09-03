@@ -1,3 +1,3 @@
 # dicerollapp
 
-A new Flutter project.
+flutter project dice roller app 
